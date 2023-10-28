@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcdb872a-658d-4989-a5f1-106987921580" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CatJumper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatJumper/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Platform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Platform.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/CameraMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/CameraMove.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/CodeBase/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Platform.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/CameraMove.cs" />
       </list>
     </option>
   </component>
@@ -62,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697905064336</updated>
       <workItem from="1697905070615" duration="1625000" />
-      <workItem from="1698505914222" duration="973000" />
+      <workItem from="1698505914222" duration="2023000" />
     </task>
     <servers />
   </component>
