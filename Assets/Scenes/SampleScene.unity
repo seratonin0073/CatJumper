@@ -254,7 +254,7 @@ MonoBehaviour:
   maxY: 3
   levelWidth: 3
   platformPref: {fileID: 7734680577238795994, guid: e54fdbc9523785542ab0aea4ab9d8219, type: 3}
-  numberOfPlatform: 5
+  numberOfPlatform: 20
 --- !u!4 &1827400536
 Transform:
   m_ObjectHideFlags: 0

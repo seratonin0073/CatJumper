@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcdb872a-658d-4989-a5f1-106987921580" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CatJumper/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatJumper/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CatJumper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatJumper/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697905064336</updated>
       <workItem from="1697905070615" duration="1625000" />
-      <workItem from="1698505914222" duration="3075000" />
+      <workItem from="1698505914222" duration="4122000" />
     </task>
     <servers />
   </component>

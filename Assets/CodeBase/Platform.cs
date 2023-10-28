@@ -12,6 +12,7 @@ public class Platform : MonoBehaviour
             if (rb != null)//якщо посилання на фізику є
             {
                 rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);//надаємо імпульс об'єкту до якого доторкнулися
+                Destroy(gameObject, 5f);//знищити через 5 секунд
             }
         }
     }
