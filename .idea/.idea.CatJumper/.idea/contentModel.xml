@@ -9,6 +9,7 @@
         <e p="Animation" t="Include" />
         <e p="CodeBase" t="Include">
           <e p="CameraMove.cs" t="Include" />
+          <e p="LevelGenerator.cs" t="Include" />
           <e p="Platform.cs" t="Include" />
           <e p="Player.cs" t="Include" />
         </e>
