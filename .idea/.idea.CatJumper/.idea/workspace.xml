@@ -36,10 +36,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/CodeBase/Platform.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/CameraMove.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Platform.cs" />
       </list>
     </option>
   </component>
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697905064336</updated>
       <workItem from="1697905070615" duration="1625000" />
-      <workItem from="1698505914222" duration="4122000" />
+      <workItem from="1698505914222" duration="4752000" />
     </task>
     <servers />
   </component>

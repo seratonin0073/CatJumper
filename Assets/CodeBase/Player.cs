@@ -21,6 +21,11 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
+        Move();//рухайся
+    }
+
+    private void Move()//Метод який реалізовує рух
+    {
         Vector2 velocity = plaeyRB.velocity;//запам'ятовуємо швидкість руху
         velocity.x = moveDirection;//міняємо X в залежності від moveDirtection
         plaeyRB.velocity = velocity;//записуємо нову швидкість
