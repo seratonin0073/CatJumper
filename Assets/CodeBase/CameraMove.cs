@@ -14,10 +14,13 @@ public class CameraMove : MonoBehaviour
 
     void Update()
     {
-        if (target.position.y > transform.position.y)//якщо таргет вище за камеру
+        if(target != null)//якщо таргет не пустий
         {
-            Vector3 newPos = new Vector3(transform.position.x, target.position.y, -10);//створюємо те куди камера буде рухатись
-            transform.position = Vector3.Lerp(transform.position, newPos, Time.deltaTime * speed);//рухаємо камеру в новову позицію
+            if (target.position.y > transform.position.y)//якщо таргет вище за камеру
+            {
+                Vector3 newPos = new Vector3(transform.position.x, target.position.y, -10);//створюємо те куди камера буде рухатись
+                transform.position = Vector3.Lerp(transform.position, newPos, Time.deltaTime * speed);//рухаємо камеру в новову позицію
+            }
         }
     }
 }
